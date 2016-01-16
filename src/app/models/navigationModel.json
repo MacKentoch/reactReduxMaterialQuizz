@@ -1,0 +1,16 @@
+[
+   {
+    "id"            : 1,
+    "name"          : "home",
+    "translate_id"  : "HOME_WORD",
+    "route"         : "/",
+    "mdlIconName"   : "home" 
+  }, 
+  {
+    "id"            : 2,
+    "name"          : "quiz",
+    "translate_id"  : "QUIZZ_WORD",
+    "route"         : "/quiz",
+    "mdlIconName"   : "question_answer" 
+  }
+]

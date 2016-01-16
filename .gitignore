@@ -1,0 +1,9 @@
+node_modules/
+bower_components/
+jspm_packages/
+.vscode/
+.idea/
+*.log
+
+build/
+dist/

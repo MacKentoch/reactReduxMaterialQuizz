@@ -1,0 +1,23 @@
+//to hide an element
+.invisible {
+  opacity : 0;
+}
+
+.showSummary {
+  animation: fadeIn 0.6s both ease-in;
+}
+
+// views animation
+.animatedViews {
+  animation-duration: 0.3s;
+  animation-fill-mode: both;
+}
+
+.view-enter{
+	animation: zoomIn 0.3s both ease-in;
+	z-index: 9999;	
+}
+
+.view-leave {
+	opacity: 0;
+}

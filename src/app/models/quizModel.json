@@ -1,0 +1,62 @@
+{
+	"intro" : {
+		"title_translate_id" 			: "QUIZZ_INTRO_TITLE",
+		"content_1_translate_id" 	: "QUIZZ_INTRO_CONTENT1",
+		"content_2_translate_id" 	: "QUIZZ_INTRO_CONTENT2",
+		"go_button_text_id"				: "QUIZZ_START_BUTTON_TEXT"
+	},
+	"end" : {
+		"title_translate_id" 		: "QUIZZ_END_TITLE",
+		"content_translate_id" 	: "QUIZZ_END_CONTENT",
+    "prev_button_text"      : "QUIZZ_PREVIOUS_BUTTON",	
+		"end_button_text"       : "QUIZZ_VALID_BUTTON"
+	},	
+	
+	"questions" : [	
+			
+		{
+			"numero" 					: 1,
+			"question" 				: "you like to dev",	
+			"Q_translate_id" 	: "QUIZZ_Q1",		
+			"liste_choix"			: [							
+				{"choix" : 1, "type"	: "checkbox", "nom" : "NodeJS", 		"translateId" : "NODE_JS_WORD", "valeur_defaut": false, "saisie" : false},
+				{"choix" : 2, "type"	: "checkbox", "nom" : "Ruby", 			"translateId" : "RUBY_WORD", 		"valeur_defaut": false, "saisie" : false},
+				{"choix" : 3, "type"	: "checkbox", "nom" : "Python", 		"translateId" : "PYTHON_WORD", 	"valeur_defaut": false, "saisie" : false},
+				{"choix" : 4, "type"	: "checkbox", "nom" : "iOS", 				"translateId" : "IOS_WORD", 		"valeur_defaut": false, "saisie" : false},
+				{"choix" : 5, "type"	: "checkbox", "nom" : "android", 		"translateId" : "ANDROID_WORD", "valeur_defaut": false, "saisie" : false},					
+				{"choix" : 6, "type"	: "textarea", "nom" : "autre", 			"translateId" : "AUTRE_WORD", 	"valeur_defaut": "", "saisie" : ""}		
+			],
+			"nombre_minimum_choix" 	: "1",
+			"nombre_maximum_choix" 	: "6",
+      "choix_saisis"          : 0
+		},
+		
+		{
+			"numero" 					: 2,
+			"question" 				: "do you like material design",	
+			"Q_translate_id" 	: "QUIZZ_Q2",		
+			"liste_choix"			: [							
+				{"choix" : 1, "type"	: "checkbox", "nom" : "yes", 						"translateId" : "YES_WORD", 					"valeur_defaut": false, "saisie" : false},
+				{"choix" : 2, "type"	: "checkbox", "nom" : "no", 						"translateId" : "NO_WORD", 						"valeur_defaut": false, "saisie" : false},
+				{"choix" : 3, "type"	: "checkbox", "nom" : "what is it", 		"translateId" : "WHAT_IS_MATERIAL_Q", "valeur_defaut": false, "saisie" : false}		
+			],
+			"nombre_minimum_choix" 	: "1",
+			"nombre_maximum_choix" 	: "1",
+      "choix_saisis"          : 0
+		},		
+	
+		{
+			"numero" 				: 3,
+			"question" 			: "something to say",		
+			"Q_translate_id" 	: "QUIZZ_Q3",	
+			"liste_choix"			: [	
+				{"choix" : 1, "type"	: "checkbox", "nom" : "no", 							"translateId" : "NO_WORD", 						"valeur_defaut": false, "saisie" : false},										
+				{"choix" : 2, "type"	: "textarea", "nom" : "something to say", "translateId" : "SOMETHING_2_SAY_WORD", "valeur_defaut": "", "saisie" : ""}		
+			],
+			"nombre_minimum_choix" 	: "1",
+			"nombre_maximum_choix" 	: "1",
+      "choix_saisis"          : 0
+		}
+    
+	]
+}

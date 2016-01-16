@@ -1,0 +1,18 @@
+[
+	{
+		"key"           : 0, 
+		"text"          : "language",
+    "disabled"      : false,
+    "translate_id"  : "LANGUAGE_WORD",
+		"href"          : "",
+    "mdlIconName"   : "language"
+	},
+	{
+		"key"           : 1, 
+		"text"          : "github",
+    "disabled"      : false,
+    "translate_id"  : "GITHUB_WORD",
+		"href"          : "",
+    "mdlIconName"   : "web"
+	}
+]

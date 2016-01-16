@@ -1,0 +1,66 @@
+{
+	"HELLO_WORD" 			         : "Hello",
+	"LANGUAGE_WORD" 	         : "language",
+  "GITHUB_WORD"              : "github",
+	"HOME_WORD"				         : "Home",
+	"QUIZZ_WORD"		           : "Quizz",
+  "ABOUT_WORD"		           : "About",
+	"NAVIGATION_WORD"          : "navigation",
+	"SETTINGS_WORD"		         : "configuration",
+	"FRANCAIS_WORD"		         : "french",
+	"ANGLAIS_WORD"		         : "english",	
+	"CHOOSE_LANGUAGE"          : "Choose language",
+	"LAYOUT_THANK_YOU"				 : "thank you",
+	"PROGRESSION_WORD"				 : "Progress",
+	"HOME_TITRE_1_QUIZZ" 			 : "React-Redux Material Quizz",
+	"HOME_TITRE_2_QUIZZ" 			 : "a nice React-Redux quiz material designed (material UI + material design lite)",
+	"HOME_DETAIL_TEXT"				 : "So easy : just update the JSON model quiz then you are done",
+	
+	"QUIZZ_START_BUTTON_TEXT"	 : "start quiz",
+	"QUIZZ_INTRO_CONTENT1"		 : "Here a first introduction content",
+	"QUIZZ_INTRO_CONTENT2"		 : "Here a second introduction content",
+	"QUIZZ_INTRO_TITLE"				 : "Quiz ",
+	"QUIZZ_END_TITLE"					 : "Quiz done",
+	"QUIZZ_END_CONTENT"				 : "Thank you",	
+	
+	"QUIZZ_NEXT_BUTTON"				: "next",
+	"QUIZZ_PREVIOUS_BUTTON"		: "prev",
+	"QUIZZ_MODIFY_BUTTON"			: "modify",
+	"QUIZZ_VALID_BUTTON"			: "valid",
+  "QUIZZ_END_BUTTON_TEXT"   : "end",
+  "QUIZZ_RULE_MIN_ANSWER"   : "minium anwser",
+  "QUIZZ_RULE_MAX_ANSWER"   : "maximum",
+  
+  "QUIZZ_GRATZ_PERCENT1"    : "Nice,",
+  "QUIZZ_GRATZ_PERCENT2"    : "% done",		
+	"QUIZZ_GRATZ_PERCENT3"    : "Congratulations quiz is 100% done!",
+  
+	"NOM_APPLICATION_WORD"    : "application name",
+	"AUTRE_WORD"							: "other",	
+	"NODE_JS_WORD"						: "NodeJS",
+	"RUBY_WORD"								: "Ruby",
+	"PYTHON_WORD"							: "Python",
+	"IOS_WORD"								: "iOS (Objective C, swift)",
+	"ANDROID_WORD"						: "android",
+	
+	"YES_WORD"								: "yes",
+	"NO_WORD"									: "no",
+	"WHAT_IS_MATERIAL_Q"			: "what is material?",
+	"SOMETHING_2_SAY_WORD"		: "something to say",
+  
+  "VALID_WORD"              : "Valid",
+  "CLOSE_WORD"              : "Close",
+  "CANCEL_WORD"             : "Cancel",
+	
+	"QUIZZ_Q1"	              : "you like to dev",
+	"QUIZZ_Q2"	              : "do you like material design",
+	"QUIZZ_Q3"	              : "something to say",
+	
+	"QUIZZ_NEXT_ALERT_MESSAGE"			: "done",
+	"QUIZZ_NEXT_NOT_VALID_MESSAGE"	: "not a valid answer",
+	"QUIZZ_MIN_ANSWER_IS"						: "minium anwser",
+	"QUIZZ_MAX_ANSWER_IS"						: "maximum",
+  
+  "SNACKBAR_CHANGE_LANG_MSG"      : "Current language is set to :" 	
+
+}

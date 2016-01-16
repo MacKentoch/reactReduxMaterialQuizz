@@ -1,0 +1,57 @@
+body {
+  margin: 0px;
+  color: rgba(0, 0, 0, 0.64); }
+
+.mdl-menu__container {
+  right: 16px !important; }
+
+.routeAnimated-enter {
+  animation: zoomIn 0.3s both ease-in;
+  z-index: 9999; }
+
+.routeAnimated-leave {
+  opacity: 1; }
+
+.routeAnimated-leave.routeAnimated-leave-active {
+  opacity: 0; }
+
+.example-enter {
+  opacity: 0.01; }
+
+.example-enter.example-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in; }
+
+.example-leave {
+  opacity: 1; }
+
+.example-leave.example-leave-active {
+  opacity: 0.01;
+  transition: opacity 300ms ease-in; }
+
+.invisible {
+  opacity: 0; }
+
+.showSummary {
+  animation: fadeIn 0.6s both ease-in; }
+
+.animatedViews {
+  animation-duration: 0.3s;
+  animation-fill-mode: both; }
+
+.view-enter {
+  animation: zoomIn 0.3s both ease-in;
+  z-index: 9999; }
+
+.view-leave {
+  opacity: 0; }
+
+.homeTitleContainer {
+  background-color: #6C7A89; }
+  .homeTitleContainer .reactMaterialImg {
+    color: #000;
+    height: 310px;
+    width: 310px;
+    background: url("https://raw.githubusercontent.com/MacKentoch/reactMaterialQuizz/master/public/img/reactjs.png") center/cover; }
+  .homeTitleContainer .titleText {
+    color: #61DAFB; }

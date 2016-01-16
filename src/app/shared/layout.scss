@@ -1,0 +1,43 @@
+body{
+	margin: 0px;
+  color: rgba(0,0,0,.64);
+}
+
+//fix menu display placement
+.mdl-menu__container{
+   right: 16px !important; 
+} 
+
+//route animation
+.routeAnimated-enter{
+	animation: zoomIn 0.3s both ease-in;
+	z-index: 9999;	
+}
+
+.routeAnimated-leave {
+	opacity: 1;
+}
+
+.routeAnimated-leave.routeAnimated-leave-active {
+	opacity: 0;
+}
+
+
+//demo aniamtion route
+.example-enter {
+  opacity: 0.01;
+}
+
+.example-enter.example-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in;
+}
+
+.example-leave {
+  opacity: 1;
+}
+
+.example-leave.example-leave-active {
+  opacity: 0.01;
+  transition: opacity 300ms ease-in;
+}
