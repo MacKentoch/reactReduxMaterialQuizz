@@ -1,7 +1,7 @@
 React-Redux JS material quizz
 =========
 
-This is a simple dynamic quiz in [ReactJS](https://facebook.github.io/react/) + [Redux]() designed following [google material guidelines](https://www.google.com/design/spec/material-design/introduction.html) thanks to nice [material UI](http://www.material-ui.com) and [google material design lite](http://www.getmdl.io/index.html).
+This is a simple dynamic quiz in [ReactJS](https://facebook.github.io/react/) + [Redux](http://rackt.org/redux/index.html) designed following [google material guidelines](https://www.google.com/design/spec/material-design/introduction.html) thanks to nice [material UI](http://www.material-ui.com) and [google material design lite](http://www.getmdl.io/index.html).
 
 **feature :** 
 
@@ -11,14 +11,14 @@ This is a simple dynamic quiz in [ReactJS](https://facebook.github.io/react/) + 
 - react-redux
 - redux-simple-router
 - redux-devtools 
-- JedWatson/classnames (*my preferred way to add animations rather than react-addons-css-transition-group*)
+- JedWatson/classnames 
 - Material UI (>0.14.0+) (+ *react-tap-event-plugin*)
 - Material Design lite
 - animate.css
 - font-awesome
 - ES6
 - jspm 
-- babel (< 6)
+- babel
 - gulp 
 
 
