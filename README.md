@@ -49,7 +49,7 @@ jspm-server
 >IMPORTANT : if you encounter a SystemJS error related to `pop.js` (*pop.js only loads redux-devTools theme and is consired as an ad by AD blockers*) you will have to add `localhost` to whitelisted website in your AD blocker.
 
 
-**Redux-devTools **
+**Redux-devTools**
 - is DEV friendly and active by default
 - to disable it (production friendly) import the production store (*uncomment it and comment dev import*)
     in `/src/app/components/Routes/Routes.jsx`
@@ -64,7 +64,7 @@ jspm-server
 
 ##WHAT'S NEXT
 
-- [] add a dynamic switch dev to production mode (*Redux-devTools or not*)
+- [ ] add a dynamic switch dev to production mode (*Redux-devTools or not*)
 - [x] babel 6+
 - [ ] webpack version
 - [ ] hot reloading (*should be linked to webpack version*)
