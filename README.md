@@ -1,9 +1,7 @@
 React-Redux JS material quizz
 =========
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/Mp96tCWH2KdajZuBzqB6jwj8/MacKentoch/reactReduxMaterialQuizz'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/Mp96tCWH2KdajZuBzqB6jwj8/MacKentoch/reactReduxMaterialQuizz.svg' />
-</a>
+
 
 This is a simple dynamic quiz in [ReactJS](https://facebook.github.io/react/) + [Redux](http://rackt.org/redux/index.html) designed following [google material guidelines](https://www.google.com/design/spec/material-design/introduction.html) thanks to nice [material UI](http://www.material-ui.com) and [google material design lite](http://www.getmdl.io/index.html).
 
